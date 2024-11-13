@@ -16,6 +16,8 @@ class User extends AbstractUser {
         $this->db = Database::getConnection();
     }
 
+
+    
     // melakukan override function dari parent-class
     public function register()
     {
