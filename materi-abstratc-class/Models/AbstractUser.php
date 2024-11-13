@@ -12,6 +12,8 @@ abstract class AbstractUser
         $this->address = $address;
     }
 
+
+    
     // action / function abstrak yang harus diimplementasikan oleh kelas turunan
     abstract public function register();
 }
