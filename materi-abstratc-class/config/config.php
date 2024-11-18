@@ -2,7 +2,7 @@
 
 return [
     'db_host' => 'localhost',
-    'db_name' => 'example-demo-galeri-photo',
+    'db_name' => 'pengumpulan-materi-pbo-php',
     'db_user' => 'root',
     'db_pass' => '',
     'db_options' => [
